@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">locate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Address" formatted="true" translatable="true">Address</string>
+</resources>
